@@ -6,3 +6,6 @@ Lab-SCADA IEC 60870-5-104 Master Protocol Simulator implements master station ro
 IEC 104 Master Simulator Features: Implements IEC 60870-5-104 Master Station communication protocol and Application Functions (IEC 60870-5-5): Station initialization, Clock Synchronization, Test Procedure, Data Acquisition, Acquisition of Events, Cyclic Data Transmission, General Interrogation, Command Transmission,      Transmission of Integrated Totals, Parameter Loading
 
 Support for simultaneous communication to multiple remote slaves (IEC 104 controlled stations). Maximum 60 sessions supported concurrently.  Windows GUI control program, On-the-fly configuration of link parameters (no application restart needed):  Adding, Removing, Modifying link properties, Built-in protocol analyzer / Protocol Trace,  Extensive logging with configurable severity,  Protocol / communication statistic counters
+
+More info at:
+https://www.lab-scada.com/iec104_protocol_simulator.html
